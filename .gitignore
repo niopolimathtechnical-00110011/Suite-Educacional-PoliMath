@@ -1,11 +1,10 @@
-﻿# Backups
+# Backups
 Meus bkps DB/
 *.zip
 *.rar
 *.7z
 
 # Build
-dist/
 *.exe
 *.spec
 

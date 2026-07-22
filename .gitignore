@@ -1,0 +1,25 @@
+﻿# Backups
+Meus bkps DB/
+*.zip
+*.rar
+*.7z
+
+# Build
+dist/
+*.exe
+*.spec
+
+# Dados
+*.polymath
+*.polymath_crypt
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
